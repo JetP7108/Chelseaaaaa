@@ -6,7 +6,7 @@ module.exports.config = {
   name: "nambui",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "CallmeSun",
+  credits: "JethroPham",
   description: "Random Ảnh Thiếu Gia Nam Bùi Cực Bổ Mắt ( Lưu Ý Đây Là Lệnh Ảnh CỰC TỐN TIỀN, Cân Nhắc Trước Khi Sử Dụng)",
   commandCategory: "Random-img",
   usages: "nambui",
@@ -36,6 +36,7 @@ const fs = global.nodemodule["fs-extra"];
  "https://i.imgur.com/IAPblsq.jpg",
  "https://i.imgur.com/ScBSEBb.jpg",
  "https://i.imgur.com/yoxfWvR.jpg",
+ "https://i.imgur.com/wK0Xoi2.jpg",
   ];
   var max = Math.floor(Math.random() * 6);  
   var min = Math.floor(Math.random() * 2);
