@@ -10,12 +10,12 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "",
-    "PREFIX": "!",
+    "BOTNAME": "Bae cụa NamBui",
+    "PREFIX": "/",
     "ADMINBOT": [
-        "",
-        "",
-        ""
+        "100043053455560",
+        "100047095580136",
+        "100027719740667"
     ],
     "DATABASE": {
         "sqlite": {
